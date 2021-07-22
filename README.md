@@ -12,3 +12,5 @@ This application includes four different calculators in a single application nam
 4. Body Fat Calculator
 
 The basic inputs of Age,Weight, Height is constant for all of them.
+
+The main file contains the main code.
